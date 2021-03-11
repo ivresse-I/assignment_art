@@ -1,0 +1,41 @@
+html{
+	width: 100vw; 
+	height: 100vh;
+}
+h1{
+text-align: center;
+}
+nav{
+float:left;
+height: 1100px;
+padding: 20px;
+bottom: 50px;
+left: 70px;
+}
+.Menupage{
+position: absolute;
+bottom: 200px;
+left: 100px;
+}
+nav ul{
+list-style-type: none;
+padding: 0;
+}
+body{
+float: left;
+padding: 30px;
+width: 85%;
+height: 400px;
+}
+.Homepage{
+position: absolute;
+right:10px;
+bottom: 650px;
+}
+.Assignment{
+display: inline-block;
+position: relative;
+text-align: center;
+}
+
+
